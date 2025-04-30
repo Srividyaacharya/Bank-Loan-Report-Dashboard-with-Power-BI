@@ -6,6 +6,9 @@
 
 This project aims to provide financial institutions with data-driven insights into loan application trends, funding disbursement, repayment details, and borrower behavior. The interactive Power BI dashboard enables effective tracking of loan performance, risk assessment, and strategic decision-making.
 
+![3817832_10904](https://github.com/user-attachments/assets/dce7a191-1ce4-47c5-ad04-9d7b4684427e)
+
+
 ## ✅ Objectives
 
 - Analyze loan application trends, funded amounts, and repayment histories.
