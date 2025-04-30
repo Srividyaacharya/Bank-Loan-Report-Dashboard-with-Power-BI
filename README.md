@@ -1,5 +1,7 @@
 ## 🏦 Bank Loan Report Dashboard - Power BI Project
 
+#### 📊 Dashboard View - [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQyMmU4ODItZGMyMi00NDQ4LTkyYTMtNWU4NjIxNDAzNDkyIiwidCI6IjU2MGY2MzA2LWZiZjItNGJhYy1hZTllLWQyMTQ4YzU5OTNiNyJ9)
+
 ## 📊 Project Overview
 
 This project aims to provide financial institutions with data-driven insights into loan application trends, funding disbursement, repayment details, and borrower behavior. The interactive Power BI dashboard enables effective tracking of loan performance, risk assessment, and strategic decision-making.
@@ -44,6 +46,8 @@ This project aims to provide financial institutions with data-driven insights in
 - KPI cards (Total Loans, Funded Amount, Received Amount)
 - MoM % change indicators
 - Slicers for loan status, term, purpose, etc.
+  
+![image](https://github.com/user-attachments/assets/f48acce7-8088-4714-915c-9ab39903b4e3)
 
 ## Dashboard 2: Overview
 
@@ -57,6 +61,8 @@ This project aims to provide financial institutions with data-driven insights in
 - **Loan Purpose Breakdown (Bar Chart):** Top reasons for loans
 - **Home Ownership (Tree Map):** Rent vs Own vs Mortgage
 
+![image](https://github.com/user-attachments/assets/a3fdf6e2-5e8e-484e-ab46-cf8b40a01abc)
+
 ## Dashboard 3: Details
 
 **Purpose:** Serve as a consolidated data view.
@@ -65,6 +71,8 @@ This project aims to provide financial institutions with data-driven insights in
 - Complete grid view by loan status
 - Metrics: Funded amount, Received amount, Avg. interest rate, Avg. DTI
 - Filters for drill-down by term, region, loan purpose
+
+![image](https://github.com/user-attachments/assets/5c769cc5-cad1-4616-b4fb-515c65e32f3c)
 
 
 ## 🛠️ Methodology
